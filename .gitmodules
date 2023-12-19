@@ -1,0 +1,3 @@
+[submodule "media_artimetica"]
+	path = media_artimetica
+	url = https://github.com/MaiiZuko/media_artimetica.git
